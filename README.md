@@ -66,6 +66,9 @@ I'm a full-stack Android developer focused on delivering seamless, high-performa
 ![Hilt](https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-1A73E8.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![WebSockets](https://img.shields.io/badge/WebSockets-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
